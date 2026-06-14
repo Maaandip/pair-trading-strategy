@@ -1,4 +1,4 @@
-# pair trading strategy
+# pair_trading_strategy
 
 built this to explore statistical arbitrage on Indian stocks. 
 found that HINDUNILVR and NESTLEIND are cointegrated which means 
